@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EWS-OAuth2", "EWS-OAuth2\EWS-OAuth2.csproj", "{952D1908-3BE7-4723-A6B0-B2E925034204}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{952D1908-3BE7-4723-A6B0-B2E925034204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{952D1908-3BE7-4723-A6B0-B2E925034204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{952D1908-3BE7-4723-A6B0-B2E925034204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{952D1908-3BE7-4723-A6B0-B2E925034204}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9C67416-BC7E-4B63-9889-F4394F3D71C0}
+	EndGlobalSection
+EndGlobal

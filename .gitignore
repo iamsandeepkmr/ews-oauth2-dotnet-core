@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/EWS-OAuth2/bin/Debug/netcoreapp3.1
+/EWS-OAuth2/obj
+/.vs/EWS-OAuth2/v16/.suo
